@@ -21,6 +21,10 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
+		<sonar.projectKey>RENJIMA123_OrderSonar</sonar.projectKey>
+  <sonar.organization>renjima123</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.login>c230095aaf749d67e704a80e8e4fae758a4b3268</sonar.login>
 	</properties>
 <dependencyManagement>
 		<dependencies>
